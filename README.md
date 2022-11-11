@@ -1,1 +1,1 @@
-# newcomers-manual
+# manual
